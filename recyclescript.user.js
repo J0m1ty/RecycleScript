@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         RecycleScript
-// @version      0.1
+// @version      1.0
 // @description  Allows you to quote without quotes
 // @author       Jomity
 // @match        *://artofproblemsolving.com/*
